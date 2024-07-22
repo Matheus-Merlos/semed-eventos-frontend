@@ -1,0 +1,8 @@
+.containerBox {
+    height: 100%;
+    background-color: #C3C3C3;
+    border-radius: 6px;
+
+    display: flex;
+    flex-direction: column;
+}
